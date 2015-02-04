@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sync_freq_array">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+    </string-array>
+
+    <string-array name="sync_freq_array_values">
+        <item>Detail 1</item>
+        <item>Detail 2</item>
+        <item>Detail 3</item>
+        <item>Detail 4</item>
+    </string-array>
+</resources>
